@@ -1,0 +1,3 @@
+com\example\translate\common\dto\TextTranslationRequest.class
+com\example\translate\common\dto\LanguageDetectionResult.class
+com\example\translate\common\dto\TextTranslationResponse.class
