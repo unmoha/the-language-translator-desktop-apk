@@ -54,7 +54,6 @@ Add user authentication
 Anwar Mohammed
 📧 anwarmoha7926@gmail.com
 
-📱 +251978810378
 🔗 GitHub: https://github.com/unmoha
 
 📄 License
